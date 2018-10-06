@@ -1,0 +1,35 @@
+.name{
+    font-weight: bold;
+    font-size: 1.2em;
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+    font-size: 2em;
+}
+article{
+    display: flex;
+  flex-direction: column;
+}
+.contacts{
+    text-align: center;
+}
+.indent{
+    font-weight: bold;
+    font-size: 1.2em;
+}
+li {
+    list-style-type: none; 
+   }
+section{
+ max-width: 1024px;
+ margin: 0 auto
+}
+.info{
+    margin-left: 40px;
+
+}
+body{
+    background-image: url( pattern-bg.png);
+}
