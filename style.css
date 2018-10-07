@@ -1,0 +1,60 @@
+body{
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.name{
+   
+    text-align: center;
+    
+}
+
+.contacts{
+    font-style: italic;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   
+}
+
+section{
+    display: flex;
+  flex-direction: column;
+}
+.contacts{
+    text-align: center;
+}
+
+li {
+    list-style-type: none; 
+   }
+.content{
+ max-width: 1024px;
+ margin: 0 auto;
+ display: flex;
+  flex-direction: column;
+ 
+}
+.info{
+    margin-left: 40px;
+
+}
+body{
+    background-image: url( image/pattern-bg.png);
+}
+.skill{
+    display: flex;
+    flex-direction: row;
+}
+.skill-blok{
+    margin-left: 40px;
+    text-align: center;
+}
+p{
+    font-size: 1.2em;
+    margin-left: 40px;
+}
+li{
+    font-size: 1.2em;
+}
