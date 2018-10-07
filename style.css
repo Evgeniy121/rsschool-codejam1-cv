@@ -41,7 +41,7 @@ li {
 
 }
 body{
-    background-image: url( pattern-bg.png);
+    background-image: url( image/pattern-bg.png);
 }
 .skill{
     display: flex;
